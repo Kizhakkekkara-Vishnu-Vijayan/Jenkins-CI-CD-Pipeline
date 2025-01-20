@@ -1,10 +1,10 @@
 ## Jenkins installation
 - Launch an EC2 instance with following configurations:  
-  - Provide a name for EC2 instance, like 'Jenkins-Server' 
-  - Select the AMI as Ubuntu Server 24.04 LTS
-  - Select Instance type as t3.small
+  - Provide a name for EC2 instance, like '__Jenkins-Server__' 
+  - Select the AMI as __Ubuntu Server 24.04 LTS__
+  - Select Instance type as __t3.small__
   - Create a key pair
-  - Create security group with SSH(22) from My IP, and Custom TCP(8080) from My IP
+  - Create security group with __SSH - 22__ from My IP, and __Custom TCP - 8080__ from My IP
 
 ![Jenkins-Install-1](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Jenkins-Install-1.png)
 ![Jenkins-Install-2](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Jenkins-Install-2.png)
