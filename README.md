@@ -25,5 +25,16 @@ Before setting up and running the pipeline, ensure you have the following instal
 6. AWS CLI: Configured with appropriate IAM permissions for ECR and ECS operations.
 7. Java JDK: Required to compile and run the Java application.
 
- ## Project flow diagram
- ![Project flow diagram](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Flow-diagram.png)
+### What Developers do:
+- Developers collaboratively write and commit code changes to a centralized version control system, such as GitHub.
+- Their primary responsibility is to write, build, and test the code locally, ensuring it functions correctly before pushing the changes to GitHub. 
+ ![Project flow diagram](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Developer.png)
+
+### What DevOps Engineer do:
+- DevOps engineers key responsibilities include, configuring and maintaining infrastructure, monitoring system performance, and ensuring the reliability, scalability, and security of applications.
+- DevOps engineers streamline the software development lifecycle by automating processes, managing CI/CD pipelines, and ensuring seamless integration between development and operations.
+![Project flow diagram](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/DevOps.png)
+
+## Project flow diagram
+![Project flow diagram](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Flow-diagram.png)
+ 
