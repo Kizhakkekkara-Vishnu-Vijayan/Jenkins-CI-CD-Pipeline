@@ -46,6 +46,7 @@ Now type the jenkins public IP Address along with port number 8080 to access jen
 
 To get the initial password for accessing jenkins, run the following command:
 > cat /var/lib/jenkins/secrets/initialAdminPassword
+
 ![Jenkins-Password](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Jenkins-Password.png)
 
 Paste the Initial Admin Password here
