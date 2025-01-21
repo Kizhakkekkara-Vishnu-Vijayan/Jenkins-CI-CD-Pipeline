@@ -7,8 +7,12 @@
   - Create security group with __SSH - 22__ from My IP, __Custom TCP - 80__ from My IP and __Custom TCP - 80__ from Jenkins-Server security group.
 ---
 ![Sonar-setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Sonar-1.png)
+
 ---
 ![Sonar-setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Sonar-2.png)
+
+---
+![Sonar-setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Sonar-3.png)
 
 Go to Advanced details and copy paste the following bash script configuration of [SonarQube-setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/SonarQube/SonarQube-Setup.sh) in user data 
 
