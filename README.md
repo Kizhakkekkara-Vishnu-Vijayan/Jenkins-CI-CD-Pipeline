@@ -39,7 +39,8 @@ Before setting up and running the pipeline, ensure you have the following instal
 ## Project flow diagram
 ---
 ![Project flow diagram](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-SS-ALL/Flow-diagram.png)
- 
+
+---
 ## Project Flow execution steps :
 1. Login to AWS Account
 2. Jenkins Installation
