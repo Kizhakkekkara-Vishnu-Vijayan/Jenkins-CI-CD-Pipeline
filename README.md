@@ -44,7 +44,7 @@ Before setting up and running the pipeline, ensure you have the following instal
 1. Login to AWS Account
 2. Jenkins Installation
 
-[Jenkins Installation](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-Installation/Jenkins-Setup.sh)
+[Jenkins Installation](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-Installation/Jenkins-Setup.md)
 ```
 ├───Jenkins-Installation
 │   ├───Jenkins-Setup.md
@@ -83,7 +83,7 @@ Before setting up and running the pipeline, ensure you have the following instal
 ```
 7. AWS ECR
 
-[IAM Setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/AWS/AWS-ECR.md)
+[ECR Setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/AWS/AWS-ECR.md)
 ```
 ├───AWS
 │   ├───AWS-ECR.md
@@ -91,7 +91,7 @@ Before setting up and running the pipeline, ensure you have the following instal
 
 8. AWS ECS
 
-[IAM Setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/AWS/AWS-ECS.md)
+[ECS Setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/AWS/AWS-ECS.md)
 ```
 ├───AWS
 │   ├───AWS-ECS.md
@@ -99,7 +99,7 @@ Before setting up and running the pipeline, ensure you have the following instal
 
 9. Jenkins Pipeline
 
-[IAM Setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-Pipeline/Pipeline-Setup.md)
+[Pipeline Setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/Jenkins-Pipeline/Pipeline-Setup.md)
 ```
 ├───Jenkins-Pipeline
 │   ├───Pipeline-setup.md
@@ -107,7 +107,7 @@ Before setting up and running the pipeline, ensure you have the following instal
 
 10. SonarQube Output
 
-[IAM Setup](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/SonarQube/SonarQube-Output.md)
+[SonarQube Output](https://github.com/Kizhakkekkara-Vishnu-Vijayan/Jenkins-CI-CD-Pipeline/blob/master/SonarQube/SonarQube-Output.md)
 ```
 ├───SonarQube
 │   ├───SonarQube-Output.md
